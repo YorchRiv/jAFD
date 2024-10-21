@@ -1,7 +1,4 @@
-/* 
- *  Copyright (C) 2011  Gerardo Martín Roldán
- *  GNU General Pulbic License
- */
+
 package jafd.core;
 
 import jafd.exceptions.MachineException;
@@ -11,11 +8,7 @@ public class Configuration {
     private String word;    
     private int headPosition;
     
-    /**
-     * Class constructor.
-     * 
-     * @param alphabet 
-     */
+
     public Configuration(Alphabet alphabet){
         this.alphabet = alphabet;        
     }

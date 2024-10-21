@@ -46,15 +46,11 @@ public class AboutDialog extends javax.swing.JDialog {
         jLabel4.setFont(new java.awt.Font("Ubuntu", 1, 15)); // NOI18N
         jLabel4.setText("Licencia:");
 
-        jLabel5.setText("GNU General Public License");
-
         jLabel8.setFont(new java.awt.Font("Ubuntu", 3, 15)); // NOI18N
-        jLabel8.setText("Gerardo Martín Roldán");
 
         jLabel11.setFont(new java.awt.Font("Ubuntu", 1, 15)); // NOI18N
         jLabel11.setText("Email:");
 
-        jLabel12.setText("gmroldanutn@gmail.com");
         jLabel12.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());

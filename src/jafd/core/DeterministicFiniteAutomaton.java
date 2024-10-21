@@ -1,7 +1,4 @@
-/* 
- *  Copyright (C) 2011  Gerardo Martín Roldán
- *  GNU General Pulbic License
- */
+
 package jafd.core;
 
 import java.util.ArrayList;

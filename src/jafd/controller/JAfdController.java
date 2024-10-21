@@ -1,7 +1,3 @@
-/* 
- *  Copyright (C) 2011  Gerardo Martín Roldán
- *  GNU General Pulbic License
- */
 package jafd.controller;
 
 import jafd.core.DeterministicFiniteAutomaton;
